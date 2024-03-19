@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    size: 50px;
+    color: aliceblue;
+}
+ul {
+    list-style: none;
+    color: white;
+}
+p{
+    size: 50px;
+    color: azure;
+}
+tr{
+    position: initial;
+}
+.lista{
+    box-sizing: content-box;
+    font-size: 60%;
+
+}
+
+.pos{
+    margin-left: 150px;
+    margin-right: 55px;
+    color: white;
+    /* padding: 8px; */
+    margin-bottom: -20px;
+}
+.tell{
+    margin-top: -100px;
+}
+
+.colr1{
+    background-color: rgb(4, 159, 206);
+   
+}
+.colr2{
+    background-color: rgb(207, 211, 2);
+}
+.colr3{
+    background-color: rgb(224, 106, 9);
+}
+.colr4{
+    background-color: rgb(241, 2, 2);
+}
+.colr5{
+    background-color: rgb(178, 10, 230);
+}

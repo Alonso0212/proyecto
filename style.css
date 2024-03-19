@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(245, 131, 78, 0.425);
+}
+h1 {
+    color: rgb(104, 88, 67);
+    text-align: center;
+}
+p{
+    background-color: forestgreen;
+    width: 40%;
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.mate{
+    font-size: 40px;
+    background-color: yellow;
+    color: springgreen;
+    
+
+}
